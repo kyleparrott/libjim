@@ -6,21 +6,21 @@
   <package-implementation package="libjim"/>
   <package-implementation distributions="Arch" package="libjim"/>
     <group arch="Linux-*">
-        <implementation id="sha1=c0e122c822df3877383c6152db6d8b6c03c51" version="0.76">
+        <implementation id="sha1=c685a40152f289efcf5d1ca52f1fdd0af8ad2e5d" version="0.76">
             <archive href="https://raw.githubusercontent.com/kyleparrott/libjim/master/libjim.so.0.76.zip" size="150888"/>
         </implementation>
     </group>
 </interface>
 <!-- Base64 Signature
-iQIcBAABCgAGBQJX9pwsAAoJEJzS+Pb4kyScwysQAICtlEne0RlJnk9ctYCmADFvjeKDf/Gx9Uoe
-JYmA4bHz0sl9P1F/fgDI9oCgAQ/p25oUK91x3JH+mmEpSOd9XQfh5yZUXWUweybwbsZWu4KTW6KY
-5nrwMgTx3kTyZ4Q2/vUmIgNfK+VcWDPr8xrcBra4qjj88X7qWTp0v/MKtbXwv5GdRvHAojAwDEYL
-bXkzUAWzEk3P4ce+YUQKTlkIoIf+aBR7HjRyCaBBH98JEreImg2j/LxOFM2MvXECoypj+ytTRP8e
-h4seckgXdTCJgnzSa9BhiO/IThcDtY2Ey55jEW0j6dS1j+NICqyC3Enzvb7XXQTaAeNOsn/+QQoo
-J8EQTSiT58/poI1V5evZFbLHJsjdOe2VUJZnD7CnCrstaphGrpRLRd9WmtB7Rmd9TewZEo53OfIk
-AXAsWPeoIZEEHyz9i57tXsAJLuPAf710aYtsdaNuZWU9/wEPITrYDnmPlF+8l3Ywx6WGkKF+MZsm
-1fAPdRzXEsxKtAINKxCw0V2u2qMH0yTQM1ARHlceLXv5zc3BQTtZiXujZzw6ZqgV/F/s13XG6SKM
-87hDiZGi7bkc1q0NvpAgY0EraPQwskrX5hWYpi1Qk61IeG3aJHW82gu54OChjK8yifxQZtAZ2vhi
-9geVpNfjskwsA0wnp05t9Q7FBmIDUz9Pw4AYN8dQ
+iQIcBAABCgAGBQJX9p/uAAoJEJzS+Pb4kySc+MkP/j3JbT5DxNdA7yw43/XHhIistfyrORrPMe3s
+G4DvZIU2f9FLCH7udOV6vtB6gClZgylLPN06k48hlCWLMLej/S+irrpVaP9N9Mc0RGBVQT6iQ1LI
+mXW+stRGUW5PCUxlNybsmiJ7XfA0i9WqsMdBAR9ZuQVNaYh1uH5ucKApksQJYhgHxSewvyGg8NfD
+9MLRmkKCdQNF0U7aP0jtqmWbpQW+r3UF10pWSU2zJjFn9DwxNnjEWzqwFBNKbLHm13Ox8QaoCi1H
+SPS7b+vd0AgrJJjbEwpK2JR0LtpQ7EDsq5XPg9XQygBNdhffmpalFZsNGtcVG3zPlXQyQk5IcmdH
+y1/Wd4ddyKfLWopu3LWhcYnn/ZW4eCIBVO2EfPirjDeUdnsyKFvC/UtOoJiuhkjJgW8iVCldhcEQ
+9c0AJ4pcfwBWDdaNUJGqKcsD9qClg8eJL3Vt4ulTPaeCXWnRPZ8BZJkE6FkRX3nsJrxoMCA5FMTk
+8DtyA5v7DNF6dzRvSdrCbGUzelEhiN3xD3VtJ3mP+rNjsTmtKxEU+eGWUa0ZSj9R1WOzIKSrWKxP
+k0V34vaZ9snEqcMgOlBlXT3oqZeGi3U4Vsw+ZjyGlIr61M6T6g6lOrl6beSVmOeHR6VfK60jW+TY
+VvY4IEmWkjtaiAtgmfJ6hteXiK+Og5yK6jp7v448
 
 -->
