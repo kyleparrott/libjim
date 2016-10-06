@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='interface.xsl'?>
+<interface uri="https://raw.githubusercontent.com/kyleparrott/libjim/master/libjim.xml" xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
+  <name>libjim</name>
+  <summary>libjim</summary>
+  <package-implementation package="libjim"/>
+  <package-implementation distributions="Arch" package="libjim"/>
+    <group arch="Linux-*">
+        <implementation id="sha1=c0e122c822df3877383c6152db6d8b6c03c51" version="0.76">
+            <archive href="https://raw.githubusercontent.com/kyleparrott/libjim/master/libjim.so.0.76.zip" size="150888"/>
+        </implementation>
+    </group>
+</interface>
+<!-- Base64 Signature
+iQIcBAABCgAGBQJX9pwsAAoJEJzS+Pb4kyScwysQAICtlEne0RlJnk9ctYCmADFvjeKDf/Gx9Uoe
+JYmA4bHz0sl9P1F/fgDI9oCgAQ/p25oUK91x3JH+mmEpSOd9XQfh5yZUXWUweybwbsZWu4KTW6KY
+5nrwMgTx3kTyZ4Q2/vUmIgNfK+VcWDPr8xrcBra4qjj88X7qWTp0v/MKtbXwv5GdRvHAojAwDEYL
+bXkzUAWzEk3P4ce+YUQKTlkIoIf+aBR7HjRyCaBBH98JEreImg2j/LxOFM2MvXECoypj+ytTRP8e
+h4seckgXdTCJgnzSa9BhiO/IThcDtY2Ey55jEW0j6dS1j+NICqyC3Enzvb7XXQTaAeNOsn/+QQoo
+J8EQTSiT58/poI1V5evZFbLHJsjdOe2VUJZnD7CnCrstaphGrpRLRd9WmtB7Rmd9TewZEo53OfIk
+AXAsWPeoIZEEHyz9i57tXsAJLuPAf710aYtsdaNuZWU9/wEPITrYDnmPlF+8l3Ywx6WGkKF+MZsm
+1fAPdRzXEsxKtAINKxCw0V2u2qMH0yTQM1ARHlceLXv5zc3BQTtZiXujZzw6ZqgV/F/s13XG6SKM
+87hDiZGi7bkc1q0NvpAgY0EraPQwskrX5hWYpi1Qk61IeG3aJHW82gu54OChjK8yifxQZtAZ2vhi
+9geVpNfjskwsA0wnp05t9Q7FBmIDUz9Pw4AYN8dQ
+
+-->
